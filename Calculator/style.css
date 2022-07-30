@@ -1,0 +1,82 @@
+body{
+	font-family: 'Open Sans',sans-serif;
+	background-color: black;
+    background-image: url(data:image/jpeg;base64,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);
+}
+#container{
+	width: 1000px;
+	height: 550px;
+	margin: 20px auto;	
+}
+#calculator{
+	width: 320px;
+	height: 520px;
+	background-color: #06beb6;
+	margin: 0 auto;
+	top: 20px;
+	position: relative;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.562), 0 6px 20px 0 rgba(0, 0, 0, 0.523);
+}
+#result{
+	height: 120px;
+}
+#history{
+	text-align: right;
+	height: 20px;
+	margin: 0 20px;
+	padding-top: 20px;
+	font-size: 15px;
+	color: #919191;
+}
+#output{
+	text-align: right;
+	height: 60px;
+	margin: 10px 20px;
+	font-size: 30px;
+}
+#keyboard{
+	height: 400px;
+}
+.operator, .number, .empty{
+	width: 50px;
+	height: 50px;
+	margin: 15px;
+	float: left;
+	border-radius: 50%;
+	border-width: 0;
+	font-weight: bold;
+	font-size: 15px;
+}
+.number, .empty{
+	background-color: #eaedef;
+}
+.number, .operator{
+	cursor: pointer;
+}
+.operator:active, .number:active{
+	font-size: 13px;
+}
+.operator:focus, .number:focus, .empty:focus{
+	outline: 0;
+}
+button:nth-child(4){
+	font-size: 20px;
+	background-color: #20b2aa;
+}
+button:nth-child(8){
+	font-size: 20px;
+	background-color: #ffa500;
+}
+button:nth-child(12){
+	font-size: 20px;
+	background-color: #f08080;
+}
+button:nth-child(16){
+	font-size: 20px;
+	background-color: #7d93e0;
+}
+button:nth-child(20){
+	font-size: 20px;
+	background-color: #9477af;
+}
